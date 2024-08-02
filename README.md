@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **vermaankush300@gmail.com**
   
-- <img width="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY2kvJfob6VCMFo53k_P0W7p4S8XHRnt4FbQ&s"/>
+- <img width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY2kvJfob6VCMFo53k_P0W7p4S8XHRnt4FbQ&s" <a>https://www.linkedin.com/in/ankush-verma-3230ab2aa/</a>/>
 
 
 <h3 align="left">Connect with me: +91 9691071160</h3>
