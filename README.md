@@ -7,8 +7,8 @@
 
 - 📫 How to reach me **vermaankush300@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left"> +91 9691071160
+<h3 align="left">Connect with me: +91 9691071160</h3>
+<p align="left"> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
