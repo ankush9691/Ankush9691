@@ -8,9 +8,9 @@
 - 📫 How to reach me **vermaankush300@gmail.com**
   
  <a href="https://www.linkedin.com/in/ankush-verma-3230ab2aa/" >
-    <img src="<img width="20px" margine="100px,50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY2kvJfob6VCMFo53k_P0W7p4S8XHRnt4FbQ&s"/>" alt="Your LinkedIn Profile">
+    <img width="20px" margine="100px,50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY2kvJfob6VCMFo53k_P0W7p4S8XHRnt4FbQ&s"/>" alt="Your LinkedIn Profile">
 </a>
-
+<img width="20px" margine="100px,50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY2kvJfob6VCMFo53k_P0W7p4S8XHRnt4FbQ&s"/>[Linkedin Profile](https://www.linkedin.com/in/ankush-verma-3230ab2aa/)
 
 <h3 align="left">Connect with me: +91 9691071160</h3>
 <p align="left"> 
