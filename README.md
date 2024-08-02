@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankush Verma</h1>
-<h3 align="center">A Passionate Full Stack Developer from India, Ankush Verma is a skilled Front-End Developer specializing in HTML, CSS, and JavaScript, with a keen eye for creating visually engaging and responsive web interfaces</h3>
+<h3 align="center">A Passionate Full Stack Developer from India, Ankush Verma is a skilled Full Stack Developer specializing in HTML, CSS, JavaScript, and React, with a keen eye for creating visually engaging and responsive web interfaces</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankush9691&label=Profile%20views&color=0e75b6&style=flat" alt="ankush9691" /> </p>
 
